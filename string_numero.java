@@ -1,5 +1,7 @@
 package exercicios_curso_Java.java_curso;
 
+//import java.math.BigDecimal; import de classe para supir a necessidade de um sistema com maior precisão 
+
 import javax.swing.JOptionPane;
 
 public class string_numero {
@@ -23,5 +25,8 @@ public class string_numero {
 		System.out.println("a soma dos valores é " + soma);
 		System.out.println("a media dos valores é " + soma/2);
 		
+		
+		//BigDecimal comando para suprir a necessidade de sistemass com maior precisão nas casas decimais
+	
 	}
 }
