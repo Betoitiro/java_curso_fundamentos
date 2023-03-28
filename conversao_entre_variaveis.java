@@ -15,7 +15,8 @@ public class conversao_entre_variaveis {
 		
 		double e = 1.999;
 		int f = (int) e;//conversão explicita usando cast
-		
+		//o resultado desse f sera 1, mesmo o e sendo 1.999
+		//seguindo a analogia do java cast
 		
 				
 		System.out.println(a);
