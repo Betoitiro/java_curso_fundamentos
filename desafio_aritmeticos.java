@@ -29,7 +29,7 @@ public class desafio_aritmeticos {
 		
 		int j = (e-d)*(c-f);
 		int t = j/c;
-		int k = (int) Math.pow(t, 2);
+		int k = (int) Mathw(t, 2);
 		//System.out.println(k);
 		
 		int l = y-k;
