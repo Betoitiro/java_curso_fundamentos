@@ -2,7 +2,8 @@ package operadores;
 
 public class operadores_ternarios {
     public static void main(String[] args) {
-        
+        //operadores ternarios usa apenas dois simbulos de ? e :
+
         double media = 5.0;
         String resultado = media >= 7.0 ? "aprovado": "reprovado";
         //operadores ternarios possuem dois simbulos, a ? que separa a expressão dos valores que serão atribuidos
