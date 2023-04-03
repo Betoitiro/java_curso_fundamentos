@@ -15,9 +15,11 @@ public class operadores_ternarios {
 
         System.out.println("O aluno esta " +resultado1);
 
-        System.out.println("Resultado da recuperação:");
+        //opração ternaria:
+        //caso o resultado da recuperação seja maior que 5.5, o aluno ira direto para a final
+        System.out.println("Resultado da recuperação:"); 
         double resultadorec = 5.0;
-        String resultof =resultadorec >= 5.5 ? "recuperação" : "reprovado";
+        String resultof =resultadorec >= 5.5 ? "recuperação" : "reprovado"; //para usar o operador ternario, tem que criar mais uma cond.
         System.out.println("o aluno ira direto para " + resultof);
 
 
