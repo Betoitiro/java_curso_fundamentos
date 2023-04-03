@@ -16,7 +16,7 @@ public class desafio_operadores_logicos {
 
         System.out.println("comprou tv 50\"?" + comproutv50);
         System.out.println("comprou tv de 32\"?" + comprouTV32);
-        System.out.println("comprou tv de 32\"sorvete?" + comprouSorvete);
+        System.out.println("comprou sorvete?" + comprouSorvete);
 
 
         System.out.println("mais saudavel?" + !comprouSorvete);
