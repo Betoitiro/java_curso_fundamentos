@@ -1,4 +1,4 @@
-package exercicios_curso_Java;
+package manipulação;
 
 public class temperatura {
 

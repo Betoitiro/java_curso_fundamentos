@@ -1,4 +1,4 @@
-package exercicios_curso_Java.java_curso;
+package manipulação;
 
 //import java.math.BigDecimal; import de classe para supir a necessidade de um sistema com maior precisão 
 

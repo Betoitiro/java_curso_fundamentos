@@ -1,4 +1,4 @@
-package exercicios_curso_Java.java_curso;
+package exercicios_curso_Java.java_curso; 
 
 import java.util.Scanner;
 
