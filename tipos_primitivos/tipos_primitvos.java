@@ -1,4 +1,4 @@
-package exercicios_curso_Java;
+package tipos_primitivos;
 
 public class tipos_primitvos {
 		public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package exercicios_curso_Java;
+package manipulação;
 
 public class função_ponto {
 		public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package aulas_fundamentos;
+package tipos_primitivos;
 
 public class tipo_string {
 	public static void main(String[] args) {
