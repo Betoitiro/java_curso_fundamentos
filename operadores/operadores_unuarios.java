@@ -1,7 +1,5 @@
 package operadores;
 
-import manipulação.string_numero;
-
 public class operadores_unuarios {
     
     public static void main(String[] args) {
