@@ -8,8 +8,8 @@ public class desafio_operadores_logicos {
         boolean trabalho2 = false;
 
         boolean comproutv50 =  trabalho && trabalho2; //operador e
-        boolean comprouTV32 = trabalho ^trabalho2; 
-        boolean comprouSorvete = trabalho || trabalho2;
+        boolean comprouTV32 = trabalho ^trabalho2; //operador ou exclusivo
+        boolean comprouSorvete = trabalho || trabalho2;//operador ou
         boolean maissaudavel = !comprouSorvete; //operador unario
 
 
