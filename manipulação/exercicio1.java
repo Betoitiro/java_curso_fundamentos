@@ -1,4 +1,4 @@
-package exercicios;
+package manipulação;
 
 import java.util.Scanner;
 

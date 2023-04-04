@@ -1,4 +1,4 @@
-package exercicios_curso_Java;
+package operadores;
 
 public class conversao_entre_variaveis {
 
