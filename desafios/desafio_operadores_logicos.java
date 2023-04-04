@@ -1,4 +1,4 @@
-package desafio;
+
 public class desafio_operadores_logicos {
     public static void main(String[] args) {
         
