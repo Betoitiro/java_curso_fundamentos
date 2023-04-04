@@ -16,11 +16,9 @@ public class desafio3 {
         System.out.println("informe a operação: ");
         String op = entrada.next();
 
-        double res = "+".equals(op) ? n1 + n2 :0;
-        res = "-".equals(op) ? n1 - n2 : res;
-        res = "*".equals(op) ? n1 * n2 : res;
-        res = "/".equals(op) ? n1 / n2 : res;
-        res = "%".equals(op) ? n1 % n2 : res;
+
+
+        double res = op.equals("+") ? n1 + n2 : op.equals("-") ? n1 - n2 : op.equals("*") ? n1 * n2 : op.equals("/") ? n1 / n2 : op.equals("%") ? n1 % n2 : 0;
 
         System.out.printf(" %.2f %s %.2f = %.2f",
         n1, op, n2, res);
