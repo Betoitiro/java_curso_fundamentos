@@ -1,4 +1,4 @@
-package exercicios_curso_Java;
+package desafios;
 
 public class desafio_aritmeticos {
 
@@ -29,7 +29,7 @@ public class desafio_aritmeticos {
 		
 		int j = (e-d)*(c-f);
 		int t = j/c;
-		int k = (int) Mathw(t, 2);
+		int k = (int) Math(t, 2);
 		//System.out.println(k);
 		
 		int l = y-k;
@@ -46,5 +46,9 @@ public class desafio_aritmeticos {
 		
 		
 		
+	}
+
+	private static int Math(int t, int i) {
+		return 0;
 	}
 }
